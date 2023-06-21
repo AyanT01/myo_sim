@@ -502,7 +502,7 @@
         <muscle name="ECRB" force = "252.2" class="muscle" tendon="ECRB_tendon" lengthrange="0.26997 0.301495"/>
         <muscle name="ECU"  force = "192.9" class="muscle" tendon="ECU_tendon" lengthrange="0.279041 0.306754"/>
         <muscle name="FCR"  force = "407.9" class="muscle" tendon="FCR_tendon" lengthrange="0.295866 0.331494"/>
-        <muscle name="FCU"  force = "479.8" class="muscle" tendon="FCU_tendon" lengthrange="0.293357 0.332707"/>
+        <muscle name="FCU"  force = "409.8" class="muscle" tendon="FCU_tendon" lengthrange="0.293357 0.332707"/>
         <muscle name="PL"   force = "101.0" class="muscle" tendon="PL_tendon" lengthrange="0.311593 0.362396"/>
         <muscle name="PT"   force = "557.2" class="muscle" tendon="PT_tendon" lengthrange="0.147243 0.170204"/>
         <muscle name="PQ"   force = "284.7" class="muscle" tendon="PQ_tendon" lengthrange="0.0220792 0.0371669"/>
